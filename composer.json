@@ -1,5 +1,5 @@
 {
-    "name": "phonepeBySandeep/phonepe-pg-php-sdk",
+    "name": "phonepe-by-sandeep/phonepe-pg-php-sdk",
     "description": "This SDK helps merchants integrate PhonePe Payments Gateway with their PHP applications.",
     "type": "library",
     "authors": [
